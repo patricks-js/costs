@@ -1,0 +1,21 @@
+{
+  "projects": [],
+  "categories": [
+    {
+      "id": 1,
+      "name": "Kaisen"
+    },
+    {
+      "id": 2,
+      "name": "Design"
+    },
+    {
+      "id": 3,
+      "name": "Web Development"
+    },
+    {
+      "id": 4,
+      "name": "Infra"
+    }
+  ]
+}
